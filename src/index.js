@@ -467,6 +467,7 @@ dayjs.p = {}
 
 const add = () => {
   console.log('我是新增的')
+  console.log('我是新增的2')
 }
 
 export default dayjs
