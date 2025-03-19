@@ -464,4 +464,11 @@ dayjs.unix = timestamp => (
 dayjs.en = Ls[L]
 dayjs.Ls = Ls
 dayjs.p = {}
+
+const add = () => {
+  console.log('我是新增的')
+}
+
 export default dayjs
+
+export { add }
